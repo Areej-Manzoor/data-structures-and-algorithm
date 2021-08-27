@@ -53,4 +53,3 @@ print_array_after_sorting(arr,6);
 
     return 0;
 }
-© 2021 GitHub, Inc.
