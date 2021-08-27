@@ -1,4 +1,3 @@
-// Online C++ compiler to run C++ program online
 #include <iostream>
 using namespace std;
 
@@ -54,3 +53,4 @@ print_array_after_sorting(arr,6);
 
     return 0;
 }
+© 2021 GitHub, Inc.
